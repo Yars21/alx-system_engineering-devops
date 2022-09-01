@@ -1,2 +1,2 @@
 #!/bin/bash  
-0-current_working_directory 1-listit 2-bring_me_home README.met 
+0-current_working_directory o 1-listit o 2-bring_me_home o README.met 
