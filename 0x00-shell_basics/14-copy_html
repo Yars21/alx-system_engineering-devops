@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -u 0-current_working_directory /root/alx-system_engineering-devops
